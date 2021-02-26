@@ -88,7 +88,8 @@ public class EmployeeManagement {
 	    }
         }
 			
-    }	
+    }
+	
     void addNewDetails(int employeeId, Employee employee) {
 	employee.setEmployeeId(employeeId);
 	System.out.println("Enter First Name");
